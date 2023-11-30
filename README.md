@@ -1,6 +1,9 @@
 ### Hi there 👋
 My web page: https://prycerz.github.io/
 
+Link do forka: https://github.com/hyperledger/besu.git
+Link do artykułu: https://cs.paperswithcode.com/paper/a-pow-less-bitcoin-with-certified-byzantine
+
 ![It's me, Paweł Adam Rycerz](dowod.jpg)
 
 
