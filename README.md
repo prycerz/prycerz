@@ -1,9 +1,9 @@
 ### Hi there 👋
 My web page: https://prycerz.github.io/
 
-Link do forka: https://github.com/hyperledger/besu.git
+Link to the fork: https://github.com/hyperledger/besu.git
 
-Linki do artykułu:
+Links to the articles:
 
 https://cs.paperswithcode.com/paper/a-pow-less-bitcoin-with-certified-byzantine
 
@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with calculus
 - 💬 Ask me about nothing
 - 📫 How to reach me: no, you can't
-- 😄 Pronouns: piw/osz
-- ⚡ Fun fact: lubie placki
+- ⚡ Fun fact: I like pancakes
 
