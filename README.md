@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on doing my Kotlin Android Studio App
 - 🤔 I’m looking for help with calculus
 - 💬 Ask me about nothing
-- 📫 How to reach me: no, you can't
+- 📫 How to reach me:
+- prycerz005@gmail.com
+- prycerz@student.agh.edu.pl
+- 
 - ⚡ Fun fact: I like pancakes
 
