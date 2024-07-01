@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my inuversity degree.
 - 🌱 I’m currently learning C/C++
-- 👯 I’m looking to collaborate on exams (HIHI)
+- 👯 I’m looking to collaborate on doing my Kotlin Android Studio App
 - 🤔 I’m looking for help with calculus
 - 💬 Ask me about nothing
 - 📫 How to reach me: no, you can't
